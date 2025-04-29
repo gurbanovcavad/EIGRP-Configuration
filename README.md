@@ -11,7 +11,7 @@ This repository contains the configuration for a network using EIGRP (Enhanced I
 - **Key Requirements**:
   - All devices can ping each other
   - All devices can access the Khazar server
-  - Maintained SSH connection
+  - Maintaine SSH connection
 
 ## Implementation Steps
 
